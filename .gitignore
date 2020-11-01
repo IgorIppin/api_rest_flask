@@ -1,0 +1,7 @@
+# PyCharm idea files
+.idea
+# Cache data
+__pycache__/
+
+# Virtual environment
+reclamador_env
